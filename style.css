@@ -1,0 +1,30 @@
+* {
+margin: 0;
+padding: 0;
+/* border: 1px solid black; */
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.924);
+    color: #304146;
+    width: 100%;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.copyright:hover {
+    border-bottom: 1px solid #304146;
+}
+
+.kelompok4:hover {
+    border-bottom: 1px solid #304146;
+}
